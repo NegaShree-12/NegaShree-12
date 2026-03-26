@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=Nega%20Shree%20S&fontSize=50&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=Nega%20Shree%20S&fontSize=50&fontAlignY=35&animation=fadeIn&desc=JAVA%20DEVELOPER%20%7C%20Full%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+Blockchain+Developer;400%2B+DSA+Problems+Solved;Hackathon+Finalist+%26+Winner;Always+Building+%F0%9F%9A%80" />
@@ -25,10 +25,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NegaShree-12&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6A0DAD&icon_color=FF6B6B&border_radius=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegaShree-12&layout=compact&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NegaShree-12&theme=radical&background=0D1117&ring=6A0DAD&fire=FF6B6B&currStreakLabel=6A0DAD&border_radius=10" />
 </div>
 
@@ -55,6 +51,7 @@
 
 ### ⚙️ Backend & APIs
 <div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -62,8 +59,9 @@
 
 ### 🗄️ Databases
 <div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ### 🤖 AI & Computer Vision
@@ -82,6 +80,7 @@
 
 ### 🛠️ Tools & DevOps
 <div align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -146,11 +145,9 @@
 
 ## 🎯 Current Focus
 
-- 📚 **Learning:** System Design, Advanced Blockchain, Cloud Architecture
-- 🏗️ **Building:** Scalable backend systems with AI integration
-- 🤝 **Contributing:** Open source projects in AI and Blockchain
-- 📖 **Reading:** Designing Data-Intensive Applications
+- 🏗️ **System Design** - Microservices, Scalability, Distributed Systems
+- ⛓️ **Advanced Blockchain** - Smart Contracts, DeFi, Web3 Architecture
+- 📚 **Learning:** Spring Boot, System Design Patterns, Blockchain Protocols
+- 🚀 **Building:** Scalable backend systems 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,4,6,8,10" width="100%"/>
-
-⭐ **Fun Fact:** I solve 400+ DSA problems before breakfast! (Okay, maybe not breakfast, but definitely before coffee ☕)

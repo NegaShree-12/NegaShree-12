@@ -74,8 +74,8 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
 🚀 Featured Projects
-🤖 AI Exam Proctoring System
-https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=ai-exam-proctoring&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
+🤖 AI-Exam-Proctor – AI-Powered Exam Proctoring System
+https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=AI-Exam-Proctor&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
 
 Tech Stack: React Flask OpenCV YOLOv8 MediaPipe
 
@@ -85,16 +85,42 @@ Implemented privacy-focused edge architecture with local processing
 
 Anonymized violation alerts ensuring data security and integrity
 
-🌾 AgroVihan – Scalable AgriTech Platform
-https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=agrovihan&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
+🔗 Live Demo: Coming Soon!
 
-Tech Stack: MongoDB Flask Blockchain REST APIs
+⛓️ AcademiChain – Blockchain-Based Academic Credential Verification
+https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=AcademiChain&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
 
-Designed scalable data models for farmers, crops, and carbon credit transactions
+Tech Stack: TypeScript Blockchain Web3.js Solidity React
 
-Integrated blockchain-based carbon credit verification ensuring transparency
+Blockchain-based platform for secure academic credential verification
 
-Built REST APIs for seamless data management and authentication
+Immutable storage of certificates and achievements on the blockchain
+
+Transparent and tamper-proof verification system
+
+🔗 Live Demo: academichain-frontend.vercel.app
+
+📚 AcademicianBackend – Backend System for Academic Management
+https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=AcademicianBackend&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
+
+Tech Stack: JavaScript Node.js REST APIs Database
+
+Robust backend system for academic management applications
+
+Scalable REST API architecture for seamless data flow
+
+Comprehensive user authentication and authorization
+
+💻 Console Application – Java Console Application
+https://github-readme-stats.vercel.app/api/pin/?username=NegaShree-12&repo=console_application&theme=radical&bg_color=0D1117&title_color=6A0DAD&border_radius=10
+
+Tech Stack: Java OOP Console Application
+
+Feature-rich Java console application demonstrating OOP concepts
+
+Interactive command-line interface for user operations
+
+Efficient data management and processing
 
 📈 LeetCode Progress
 <div align="center"> <img src="https://leetcard.jacoblin.cool/negashree?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" /> </div>
